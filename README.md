@@ -3,6 +3,8 @@ Batch processing using joblib including tqdm progress bars
 
 Add batch processing to joblib, including tqdm progress bars.
 
+[I wrote a blog post about this](https://towardsdatascience.com/parallel-batch-processing-in-python-8dcce607d226)
+
 ## Install
 ```bash
 pip install tqdm_batch
